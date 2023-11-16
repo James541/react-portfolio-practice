@@ -1,5 +1,5 @@
 import { useState } from "react";
-import selfie from "../src/selfie.png";
+import selfie from "../public/selfie.png";
 import "./App.css";
 
 function App() {
