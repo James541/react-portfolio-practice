@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+nav {
+  color: red;
+  display: flex;
+  justify-content: space-between;
+  background-color: aliceblue;
+  align-items: center;
+}
+
+h3 {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+li {
+  padding: 15px;
+  cursor: pointer;
+}
+
+.selfie-img {
+  border: 2px solid white;
+}
