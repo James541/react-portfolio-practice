@@ -1,5 +1,5 @@
 import { useState } from "react";
-import selfie from "./selfie.png";
+//import selfie from "./selfie.png";
 import "./App.css";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <>
       <nav>
         <div className="name-tag">
-          <h3>name</h3>
+          <h3>namee</h3>
         </div>
         <ul>
           <li>Home</li>
@@ -16,9 +16,6 @@ function App() {
           <li>Contact</li>
         </ul>
       </nav>
-      <div className="selfie-img">
-        <img src={selfie} />
-      </div>
     </>
   );
 }
