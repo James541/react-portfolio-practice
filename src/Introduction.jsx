@@ -1,5 +1,5 @@
 import React from "react";
-import selfie from "./selfie.png";
+import selfie from "/selfie.png";
 
 function Introduction() {
   return (
