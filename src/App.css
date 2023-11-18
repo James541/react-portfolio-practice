@@ -28,6 +28,24 @@ li {
   cursor: pointer;
 }
 
+.selfie-container {
+  display: flex;
+}
 .selfie-img {
   border: 2px solid white;
+  margin: 20px;
+}
+
+.projects-container {
+  color: red;
+  font-size: 30px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: burlywood;
+}
+
+p {
+  max-width: 300px;
+  margin-left: 100px;
 }
